@@ -3,7 +3,7 @@
 ### Deployment Example Repos
 - [Ingress API Deployment examples](https://github.com/shaun-nx/ingress-api-deployments)
 - [Gateway API Deployment examples](https://github.com/shaun-nx/gateway-api-deployments)
-- [Inference Extension Deployment Examples](url)
+- [Inference Extension Deployment Examples](https://github.com/shaun-nx/gateway-api-inference-demo)
 
 ### External References
 - [Ingress Resource](https://kubernetes.io/docs/concepts/services-networking/ingress/#the-ingress-resource)
